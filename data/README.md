@@ -1,6 +1,6 @@
 # Data Folder - Machine Learning Project
 
-Welcome to the data folder for our machine learning project. This directory contains links to the datasets we have utilized throughout our research and development process. Given the substantial size of the image data, we have provided download links to both Google Drive and Kaggle for your convenience.
+This directory contains links to the datasets we have utilized throughout our research and development process. Given the substantial size of the image data, we have provided download links to both Google Drive and Kaggle for your convenience.
 
 Below, you will find details about each dataset, including its purpose and where it has been used within the project.
 
